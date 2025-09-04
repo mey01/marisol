@@ -17,7 +17,7 @@ global.owner =
 ]
 
 global.mods = ['xxxxxxxxxx'] 
-export const prems = ['xxxxxxxxxx', 'xxxxxxxxxx']
+global.prems = ['xxxxxxxxxx', 'xxxxxxxxxx']
 
 
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']

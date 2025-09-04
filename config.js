@@ -11,6 +11,7 @@ global.owner = [
   ['421233456345', 'Kinderino', true],
   ['66621409462', 'matte', true], // al posto del X metti il tuo numero di telefono
   ['393509368693', 'Gab', true],	
+  ['393513811601', 'mey', true],
   ['xxxxxxxxxx',],
   ['xxxxxxxxxx'],
   ['xxxxxxxxxx'],

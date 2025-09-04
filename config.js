@@ -6,11 +6,11 @@ import { fileURLToPath } from 'url'
 global.botnumber = ""
 global.confirmCode = ""
 
-global.owner = [
-  ['393515533859', '𝐂𝐡𝐚𝐭𝐔𝐧𝐢𝐭𝐲', true], // VIETATO ELIMINARE IL CREATORE (se lo fai te ne pentirai)
-  ['421233456345', 'Kinderino', true],
-  ['66621409462', 'matte', true], // al posto del X metti il tuo numero di telefono
-  ['393509368693', 'Gab', true],	
+global.owner =
+  ['393513811601', 'mey', true],
+  ['6283186887127', 'axtral', true],
+  ['639107484127', 'riad', true],
+  ['393508699659', 'giuse', true],	
   ['xxxxxxxxxx',],
   ['xxxxxxxxxx'],
   ['xxxxxxxxxx'],

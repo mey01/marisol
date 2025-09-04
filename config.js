@@ -6,15 +6,15 @@ import { fileURLToPath } from 'url'
 global.botnumber = ""
 global.confirmCode = ""
 
-global.owner =
+global.owner = [
   ['393513811601', 'mey', true],
   ['6283186887127', 'axtral', true],
   ['639107484127', 'riad', true],
-  ['393508699659', 'giuse', true],	
-  ['xxxxxxxxxx',],
+  ['393508699659', 'giuse', true],
   ['xxxxxxxxxx'],
   ['xxxxxxxxxx'],
-]
+  ['xxxxxxxxxx']
+];
 
 global.mods = ['xxxxxxxxxx'] 
 global.prems = ['xxxxxxxxxx', 'xxxxxxxxxx']
